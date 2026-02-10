@@ -90,76 +90,119 @@ This folder contains everything you need to create an award-winning innovation p
 
 ---
 
-## 🎯 The Innovation Process: Research → Brainstorm → Prototype → Share
+## 🎯 The Innovation Process: Official FLL Phases
 
-Your project follows the FLL innovation cycle. Here's how each document connects to this process:
+Your project follows the official FLL Innovation Project process. Here's how each document connects to these phases:
 
-### 🔍 **RESEARCH** (Understanding the Problem)
+### 1. 🔍 **IDENTIFY** (Select a Specific Problem)
+
+**What it means:** Select a specific problem related to the season's theme, such as challenges faced by archaeologists in exploring, excavating, or preserving artifacts.
+
 **Documents to use:**
-- `research references.docx` - Real-world sources
-- `Excavators innovation project.docx` - Part 2 (Research section)
+- `Excavators innovation project.docx` - Part 1 (The Problem section)
+- `excavators innovation project maximum score guide.docx` - IDENTIFY section
 
 **What judges want to see:**
 - You understand the real problem archaeologists face
-- You researched existing solutions (Snake Robots, Vine Robots)
-- You identified gaps in current technology
+- The problem is specific and related to the "Unearthed" theme
+- You can explain who is affected (archaeologists, artifacts, history)
 
 **How to show this in your presentation:**
 - Talk about the dangers of tight spaces (rockfalls, toxic dust)
-- Mention existing robots and their limitations
-- Explain why current solutions don't work for excavation
+- Explain why traditional tools fail (rigid machines can't bend)
+- Show you understand the real-world challenges
 
 ---
 
-### 💡 **BRAINSTORM** (Coming Up with Ideas)
+### 2. 📚 **RESEARCH** (Investigate Thoroughly)
+
+**What it means:** Investigate the problem thoroughly using books, internet, or by interviewing experts in the field.
+
 **Documents to use:**
-- `Excavators innovation project.docx` - Part 3 (Solution section)
+- `research references.docx` - Real-world sources
+- `Excavators innovation project.docx` - Part 2 (Research section)
+- `excavators innovation project maximum score guide.docx` - IDENTIFY section
+
+**What judges want to see:**
+- You researched existing solutions (Snake Robots, Vine Robots)
+- You used multiple sources (websites, articles, experts)
+- You identified gaps in current technology
+
+**How to show this in your presentation:**
+- Mention specific research sources
+- Talk about existing robots and their limitations
+- Explain why current solutions don't work for excavation
+- Show you understand what already exists
+
+---
+
+### 3. 🛠️ **DESIGN & CREATE** (Develop an Original Solution)
+
+**What it means:** Develop an original solution or improve upon an existing one. Teams must build a prototype, which can be a physical model, a drawing, or a digital design.
+
+**Documents to use:**
+- `Excavators innovation project.docx` - Part 3 (Solution section) and Part 4 (LEGO Model section)
 - `excavators innovation project maximum score guide.docx` - CREATE section
 
 **What judges want to see:**
 - Your team worked together to generate ideas
-- You considered different approaches
-- You chose the best solution based on research
+- You designed an original solution (Flexi-Digger)
+- You built a physical prototype (your LEGO model)
+- You can explain how it works
 
 **How to show this in your presentation:**
 - Explain how you decided on a cable-driven arm
 - Talk about why you chose vertebrae design
-- Show you considered alternatives
+- Demonstrate your LEGO model live
+- Show the mechanics (Tension Spine, vertebrae, tendons)
 
 ---
 
-### 🛠️ **PROTOTYPE** (Building and Testing)
+### 4. 🔄 **ITERATE** (Share & Refine)
+
+**What it means:** Share the solution with experts or potential users to get feedback, then refine the project based on that input.
+
 **Documents to use:**
-- `Excavators innovation project.docx` - Part 4 (LEGO Model section)
+- `Script Excavators innovation project.docx` - Part 4 (Iteration section) and Part 5 (Sharing section)
 - `excavators innovation project maximum score guide.docx` - ITERATE section
 
 **What judges want to see:**
-- You built a physical model (your LEGO prototype)
-- You tested it and it didn't work perfectly the first time
-- You improved it based on testing
+- You tested your prototype and it didn't work perfectly the first time
+- You shared your idea with others (coaches, teachers, parents, experts)
+- You got feedback and used it to improve
+- You refined your design based on input
 
 **How to show this in your presentation:**
-- Demonstrate your LEGO model live
 - Tell the story: "Our first version was too floppy..."
 - Show how you fixed it: "We added spacers between vertebrae..."
+- Name specific people who gave you feedback
+- Explain what they said and how you changed your design
 - This proves you understand iteration!
 
 ---
 
-### 📢 **SHARE** (Getting Feedback)
+### 5. 📢 **COMMUNICATE** (Deliver Your Presentation)
+
+**What it means:** Deliver a 5-minute presentation to judges demonstrating the problem, research, innovation, and impact.
+
 **Documents to use:**
-- `Script Excavators innovation project.docx` - Part 5 (Sharing section)
+- `Script Excavators innovation project.docx` - Complete script
 - `excavators innovation project maximum score guide.docx` - COMMUNICATE section
+- All your project documents for reference
 
 **What judges want to see:**
-- You shared your idea with others (coaches, teachers, parents)
-- You got feedback and used it to improve
-- You understand the real-world impact
+- Clear 5-minute presentation covering all phases
+- Everyone on the team speaks
+- You demonstrate your prototype
+- You explain the problem, research, innovation, and impact
+- Strong teamwork and enthusiasm
 
 **How to show this in your presentation:**
-- Name specific people who gave you feedback
-- Explain what they said and how you changed your design
+- Follow your script (but make it natural)
+- Demonstrate your LEGO model
+- Cover all five phases: Identify, Research, Design & Create, Iterate, Communicate
 - Talk about impact beyond archaeology (Search & Rescue, etc.)
+- End with your team conclusion together
 
 ---
 
@@ -179,7 +222,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 2: The Problem (RESEARCH Phase)**
+#### **Slide 2: The Problem (IDENTIFY Phase)**
 **What to include:**
 - **The Challenge:** Archaeologists need to excavate artifacts in dangerous, tight spaces
 - **Why it's dangerous:**
@@ -221,7 +264,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 4: Our Solution - Flexi-Digger (BRAINSTORM → PROTOTYPE Phase)**
+#### **Slide 4: Our Solution - Flexi-Digger (DESIGN & CREATE Phase)**
 **What to include:**
 - **Core Concept:** Cable-Driven Articulated Arm
 - **Key Features:**
@@ -238,7 +281,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 5: How It Works - The Technology (PROTOTYPE Phase)**
+#### **Slide 5: How It Works - The Technology (DESIGN & CREATE Phase)**
 **What to include:**
 - **The Tension Spine Mechanism:**
   - Flexible tubing as the spine
@@ -258,7 +301,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 6: Iteration - Learning from Failure (PROTOTYPE Phase)**
+#### **Slide 6: Iteration - Learning from Failure (ITERATE Phase)**
 **What to include:**
 - **First Prototype Problems:**
   - Arm was too floppy
@@ -279,7 +322,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 7: Sharing & Feedback (SHARE Phase)**
+#### **Slide 7: Sharing & Feedback (ITERATE Phase)**
 **What to include:**
 - **Who We Shared With:**
   - Coaches
@@ -302,7 +345,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 8: Impact - Beyond Archaeology (SHARE Phase)**
+#### **Slide 8: Impact - Beyond Archaeology (COMMUNICATE Phase)**
 **What to include:**
 - **Primary Use:** Archaeological excavation in dangerous spaces
 - **Other Applications:**
@@ -319,7 +362,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 ---
 
-#### **Slide 9: Our LEGO Model (PROTOTYPE Demonstration)**
+#### **Slide 9: Our LEGO Model (DESIGN & CREATE Demonstration)**
 **What to include:**
 - Multiple photos of your model from different angles
 - Close-ups of key mechanisms
@@ -408,7 +451,7 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 **Common Questions & How to Answer:**
 
 **Q: "How did you come up with this idea?"**
-- A: "We researched the problem archaeologists face and found that existing robots either couldn't bend or couldn't dig. We brainstormed solutions and came up with the cable-driven vertebrae design."
+- A: "We identified the problem archaeologists face in tight spaces, researched existing robots that either couldn't bend or couldn't dig, then designed our cable-driven vertebrae solution."
 
 **Q: "What was your biggest challenge?"**
 - A: "Making the arm flexible but strong enough to work. Our first prototype was too floppy. We solved it by adding spacers between the vertebrae to create better tension."
@@ -427,25 +470,25 @@ Your project follows the FLL innovation cycle. Here's how each document connects
 
 Use this checklist to make sure you cover everything judges are looking for:
 
-### IDENTIFY (Problem & Research)
+### IDENTIFY (Select a Specific Problem)
 - [ ] Problem is specific and real
 - [ ] You explain who it affects (archaeologists)
 - [ ] You researched existing solutions
 - [ ] You identified gaps in current technology
 
-### CREATE (Solution & Innovation)
+### DESIGN & CREATE (Develop an Original Solution)
 - [ ] You explain what you built/designed
 - [ ] You show how it's different from existing solutions
 - [ ] You demonstrate your LEGO model
 - [ ] You explain the mechanics clearly
 
-### ITERATE (Testing & Improvement)
+### ITERATE (Share & Refine)
 - [ ] You talk about testing your design
 - [ ] You mention something that failed
 - [ ] You explain how you improved it
 - [ ] You show you learned from feedback
 
-### COMMUNICATE (Sharing & Impact)
+### COMMUNICATE (Deliver Your Presentation)
 - [ ] You shared your idea with others
 - [ ] You got and used feedback
 - [ ] You explain real-world impact
