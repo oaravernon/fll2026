@@ -1,0 +1,12 @@
+# Large PDF files (exceed GitHub's 100MB limit)
+Excavators/innovation project/Excavators Flexi Digger Innovation Project.pdf
+
+# Large files in general
+*.pdf
+!common/**/*.pdf
+!Excavators/**/*.pdf
+!Mountain Shredders/**/*.pdf
+!Team Saturday/**/*.pdf
+
+# Actually, let's be more specific - ignore only the huge PDF
+Excavators/innovation project/Excavators Flexi Digger Innovation Project.pdf
