@@ -1,0 +1,17 @@
+We have 3 teams competing in this years FLL Challenge 2026 
+THis year the theme is Unearthed focused on archaelogy 
+Explore and udnerstand all the files in this repo , 
+
+organize the files into
+common
+    -   rubrics categorized for each 
+        -   FLL Core Values
+        -   Robot Run presentation
+        -   Robot Run
+        -   Innovation Project presentation
+Mountain Shredders ( Team 1)
+    - separate folders for ( robot run , robot run presentation , innovation project )
+Team Saturday ( Team 2 )
+    - separate folders for ( robot run , robot run presentation , innovation project )
+Excavators ( Team 3)
+    - separate folders for ( robot run , robot run presentation , innovation project )
