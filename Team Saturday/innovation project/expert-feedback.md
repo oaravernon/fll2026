@@ -3,7 +3,13 @@
 ## Expert Consultation
 
 **Date:** [Date of consultation]  
-**Expert:** Professor of Archaeology, University of British Columbia, Okanagan  
+**Expert:** Dr. Neha Gupta  
+**Title:** Assistant Professor, Anthropology  
+**Institution:** Irving K. Barber Faculty of Arts & Social Sciences | Community, Culture and Global Studies  
+**University:** The University of British Columbia | Okanagan | syilx Okanagan Nation Territory  
+**Location:** 259 Arts Building, 1147 Research Road | Kelowna BC | V1V 1V7 Canada  
+**Email:** neha.gupta@ubc.ca  
+**Additional Role:** Consulting Scholar, Penn Museum, University of Pennsylvania  
 **Team:** Team Saturday (Ryker Chorley, Huey Shin, Hayden Shin)  
 **Project:** Site Guardian - Vandalism Prevention System for Archaeological Sites
 
@@ -11,7 +17,7 @@
 
 ## Meeting Summary
 
-Team Saturday had the opportunity to present their innovation project, **Site Guardian**, to a Professor of Archaeology from the University of British Columbia, Okanagan. The team discussed their innovative solution for preventing vandalism at open-air archaeological sites using acoustic AI and virtual fence technology.
+Team Saturday had the opportunity to present their innovation project, **Site Guardian**, to Dr. Neha Gupta, Assistant Professor of Anthropology at the University of British Columbia, Okanagan. The team discussed their innovative solution for preventing vandalism at open-air archaeological sites using acoustic AI and virtual fence technology.
 
 ---
 
@@ -131,13 +137,13 @@ The team found the expert consultation extremely valuable. The feedback helped t
 
 ## Expert's Final Comments
 
-The professor was impressed with:
+Dr. Gupta was impressed with:
 - The team's understanding of the permanent nature of vandalism damage
 - Their creative use of technology (acoustic AI + virtual fence)
 - Their research into real-world examples
 - Their consideration of both technical and psychological aspects of prevention
 
-The expert encouraged the team to continue developing their idea and to consider how it could be implemented at actual archaeological sites, particularly those with high tourist traffic.
+Dr. Gupta encouraged the team to continue developing their idea and to consider how it could be implemented at actual archaeological sites, particularly those with high tourist traffic.
 
 ---
 

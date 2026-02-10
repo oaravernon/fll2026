@@ -378,10 +378,10 @@ Going to Lake Country Middle School was an incredible experience! Here's what ha
 
 **Sample Answer:**
 
-Yes! We had an amazing opportunity to present our Site Guardian project to a Professor of Archaeology from the University of British Columbia, Okanagan. It was one of the most valuable experiences of our project!
+Yes! We had an amazing opportunity to present our Site Guardian project to Dr. Neha Gupta, Assistant Professor of Anthropology at the University of British Columbia, Okanagan. It was one of the most valuable experiences of our project!
 
 **The Meeting:**
-- We scheduled a meeting with the professor
+- We scheduled a meeting with Dr. Gupta
 - We prepared a comprehensive presentation of our project
 - We were nervous but excited to share our ideas with a real expert
 
@@ -393,7 +393,7 @@ Yes! We had an amazing opportunity to present our Site Guardian project to a Pro
 - We talked about potential applications and impact
 
 **The Expert's Feedback:**
-- The professor confirmed that vandalism is a serious, growing problem
+- Dr. Gupta confirmed that vandalism is a serious, growing problem
 - They validated that proactive prevention is more effective than reactive monitoring
 - They appreciated our multi-layered approach (sound + distance detection)
 - They gave us suggestions about environmental factors and cost considerations
@@ -419,7 +419,7 @@ Yes! We had an amazing opportunity to present our Site Guardian project to a Pro
 
 **Sample Answer:**
 
-The professor gave us really valuable and encouraging feedback:
+Dr. Gupta gave us really valuable and encouraging feedback:
 
 **Validation:**
 - They confirmed that vandalism is a serious and growing problem at archaeological sites
@@ -575,7 +575,7 @@ Our biggest challenge was preventing false alarms while still detecting real thr
 1. **Research:** We researched how real security systems handle this problem
 2. **Brainstorming:** We brainstormed ways to combine detection methods
 3. **Testing:** We tested different approaches with our LEGO prototype
-4. **Expert Consultation:** We got feedback from the archaeology professor
+4. **Expert Consultation:** We got feedback from Dr. Neha Gupta, Assistant Professor of Anthropology at UBC Okanagan
 5. **Iteration:** We kept improving until we found a solution that worked
 
 **The Solution:**

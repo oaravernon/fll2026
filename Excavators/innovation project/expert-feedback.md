@@ -3,7 +3,13 @@
 ## Expert Consultation
 
 **Date:** [Date of consultation]  
-**Expert:** Professor of Archaeology, University of British Columbia, Okanagan  
+**Expert:** Dr. Neha Gupta  
+**Title:** Assistant Professor, Anthropology  
+**Institution:** Irving K. Barber Faculty of Arts & Social Sciences | Community, Culture and Global Studies  
+**University:** The University of British Columbia | Okanagan | syilx Okanagan Nation Territory  
+**Location:** 259 Arts Building, 1147 Research Road | Kelowna BC | V1V 1V7 Canada  
+**Email:** neha.gupta@ubc.ca  
+**Additional Role:** Consulting Scholar, Penn Museum, University of Pennsylvania  
 **Team:** Excavators (Nelson, Silas, Luke)  
 **Project:** Flexi-Digger - A Flexible Robotic Arm for Archaeological Excavation
 
@@ -11,7 +17,7 @@
 
 ## Meeting Summary
 
-The Excavators team had the opportunity to present their innovation project, **Flexi-Digger**, to a Professor of Archaeology from the University of British Columbia, Okanagan. The team discussed their innovative solution for excavating artifacts in tight, dangerous spaces where traditional tools cannot reach.
+The Excavators team had the opportunity to present their innovation project, **Flexi-Digger**, to Dr. Neha Gupta, Assistant Professor of Anthropology at the University of British Columbia, Okanagan. The team discussed their innovative solution for excavating artifacts in tight, dangerous spaces where traditional tools cannot reach.
 
 ---
 
@@ -124,13 +130,13 @@ The team found the expert consultation extremely valuable. The feedback helped t
 
 ## Expert's Final Comments
 
-The professor was impressed with:
+Dr. Gupta was impressed with:
 - The team's understanding of real archaeological challenges
 - Their creative approach to solving a complex problem
 - Their research into existing technology
 - Their consideration of safety and preservation
 
-The expert encouraged the team to continue developing their idea and to consider how it could be applied in actual archaeological field work.
+Dr. Gupta encouraged the team to continue developing their idea and to consider how it could be applied in actual archaeological field work.
 
 ---
 

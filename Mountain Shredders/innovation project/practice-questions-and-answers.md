@@ -371,10 +371,10 @@ Going to Lake Country Middle School was an amazing experience! Here's what happe
 
 **Sample Answer:**
 
-Yes! We had an incredible opportunity to present our innovation project to a Professor of Archaeology from the University of British Columbia, Okanagan. It was one of the most valuable experiences of our project!
+Yes! We had an incredible opportunity to present our innovation project to Dr. Neha Gupta, Assistant Professor of Anthropology at the University of British Columbia, Okanagan. It was one of the most valuable experiences of our project!
 
 **The Meeting:**
-- We scheduled a meeting with the professor
+- We scheduled a meeting with Dr. Gupta
 - We prepared a presentation of our project
 - We were nervous but excited to share our ideas with a real expert
 
@@ -385,7 +385,7 @@ Yes! We had an incredible opportunity to present our innovation project to a Pro
 - We discussed potential applications and impact
 
 **The Expert's Feedback:**
-- The professor confirmed that our problem is relevant to archaeology
+- Dr. Gupta confirmed that our problem is relevant to archaeology
 - They validated our approach and gave us suggestions
 - They helped us see areas for improvement
 - They encouraged us to continue developing our idea
@@ -410,7 +410,7 @@ Yes! We had an incredible opportunity to present our innovation project to a Pro
 
 **Sample Answer:**
 
-The professor gave us really valuable feedback:
+Dr. Gupta gave us really valuable feedback:
 
 **Validation:**
 - They confirmed that the problem we identified is relevant to archaeology

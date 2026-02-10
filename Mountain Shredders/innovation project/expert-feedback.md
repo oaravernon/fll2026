@@ -3,7 +3,13 @@
 ## Expert Consultation
 
 **Date:** [Date of consultation]  
-**Expert:** Professor of Archaeology, University of British Columbia, Okanagan  
+**Expert:** Dr. Neha Gupta  
+**Title:** Assistant Professor, Anthropology  
+**Institution:** Irving K. Barber Faculty of Arts & Social Sciences | Community, Culture and Global Studies  
+**University:** The University of British Columbia | Okanagan | syilx Okanagan Nation Territory  
+**Location:** 259 Arts Building, 1147 Research Road | Kelowna BC | V1V 1V7 Canada  
+**Email:** neha.gupta@ubc.ca  
+**Additional Role:** Consulting Scholar, Penn Museum, University of Pennsylvania  
 **Team:** Mountain Shredders  
 **Project:** [Innovation Project Name]
 
@@ -11,7 +17,7 @@
 
 ## Meeting Summary
 
-The Mountain Shredders team had the opportunity to present their innovation project to a Professor of Archaeology from the University of British Columbia, Okanagan. The team discussed their innovative ideas for addressing challenges in archaeology related to the UNEARTHED theme.
+The Mountain Shredders team had the opportunity to present their innovation project to Dr. Neha Gupta, Assistant Professor of Anthropology at the University of British Columbia, Okanagan. The team discussed their innovative ideas for addressing challenges in archaeology related to the UNEARTHED theme.
 
 ---
 
@@ -126,13 +132,13 @@ The team found the expert consultation valuable. The feedback helped them:
 
 ## Expert's Final Comments
 
-The professor was impressed with:
+Dr. Gupta was impressed with:
 - The team's engagement with archaeological challenges
 - Their creative approach to problem-solving
 - Their research and preparation
 - Their consideration of real-world applications
 
-The expert encouraged the team to continue developing their idea and to consider how it could be applied in actual archaeological field work.
+Dr. Gupta encouraged the team to continue developing their idea and to consider how it could be applied in actual archaeological field work.
 
 ---
 

@@ -368,10 +368,10 @@ Going to Lake Country Middle School was an amazing experience! Here's what happe
 
 **Sample Answer:**
 
-Yes! We had an incredible opportunity to present our Flexi-Digger project to a Professor of Archaeology from the University of British Columbia, Okanagan. It was one of the most valuable experiences of our project!
+Yes! We had an incredible opportunity to present our Flexi-Digger project to Dr. Neha Gupta, Assistant Professor of Anthropology at the University of British Columbia, Okanagan. It was one of the most valuable experiences of our project!
 
 **The Meeting:**
-- We scheduled a meeting with the professor
+- We scheduled a meeting with Dr. Gupta
 - We prepared a presentation of our project
 - We were nervous but excited to share our ideas with a real expert
 
@@ -382,7 +382,7 @@ Yes! We had an incredible opportunity to present our Flexi-Digger project to a P
 - We discussed potential applications and impact
 
 **The Expert's Feedback:**
-- The professor confirmed that tight-space excavation is a real problem in archaeology
+- Dr. Gupta confirmed that tight-space excavation is a real problem in archaeology
 - They validated that our approach addresses a genuine need
 - They gave us technical suggestions about power requirements and soil types
 - They suggested we consider different archaeological contexts
@@ -407,7 +407,7 @@ Yes! We had an incredible opportunity to present our Flexi-Digger project to a P
 
 **Sample Answer:**
 
-The professor gave us really valuable feedback:
+Dr. Gupta gave us really valuable feedback:
 
 **Validation:**
 - They confirmed that tight-space excavation is a serious challenge in archaeology
