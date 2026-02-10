@@ -1,0 +1,582 @@
+# Practice Questions and Answers - Excavators Robot Run Presentation
+
+**Team:** Excavators (Nelson, Silas, Luke)
+
+---
+
+## Table of Contents
+
+1. [Robot Design Questions](#robot-design-questions)
+2. [Mission Strategy Questions](#mission-strategy-questions)
+3. [Programming Questions](#programming-questions)
+4. [Core Values Questions](#core-values-questions)
+5. [Teamwork and Collaboration Questions](#teamwork-and-collaboration-questions)
+6. [Practice and Preparation Questions](#practice-and-preparation-questions)
+7. [Problem-Solving Questions](#problem-solving-questions)
+
+---
+
+## Robot Design Questions
+
+### Q1: Tell me about your robot design. Why did you choose this design?
+
+**Sample Answer:**
+
+Our robot is designed to be reliable, precise, and able to complete multiple missions efficiently. Here's our design philosophy:
+
+**Modular Attachments:**
+- We use a modular attachment system so we can quickly change tools for different missions
+- This allows us to complete multiple missions in one run
+- Each attachment is designed for specific missions: Surface Brushing, Map Reveal, Angler Artifacts, etc.
+
+**Stability and Precision:**
+- Our base is wide and low to the ground for stability
+- We use precise sensors for accurate positioning
+- Our wheels are chosen for the right balance of speed and control
+
+**Why This Design:**
+- We tested different designs and found this one works best for our missions
+- It's reliable - it does the same thing every time
+- It's efficient - we can complete multiple missions quickly
+- It's maintainable - if something breaks, we can fix it quickly
+
+**Key Point:** Our design isn't fancy - it's functional. We prioritized reliability over complexity because in competition, you need something that works consistently!
+
+---
+
+### Q2: How did you decide which missions to attempt?
+
+**Sample Answer:**
+
+We chose our missions based on several factors:
+
+**Point Value:**
+- We calculated which missions give us the best points for the time invested
+- We prioritized missions that are worth more points
+- We balanced high-point missions with reliable, consistent missions
+
+**Reliability:**
+- We chose missions we can complete consistently
+- We avoided missions that are too risky or unreliable
+- We tested each mission multiple times to ensure consistency
+
+**Robot Capabilities:**
+- We matched missions to what our robot can do well
+- We designed attachments specifically for our chosen missions
+- We made sure our robot can reach and interact with the mission models
+
+**Strategy:**
+- We planned missions that can be done in sequence efficiently
+- We considered the field layout and robot movement
+- We balanced speed with accuracy
+
+**Our Mission Set:**
+- Mission 01/02/11: Surface Brushing, Map Reveal, Angler Artifacts (Silas's missions)
+- Mission 5/6/8: Who Lived Here, Forge, Silo
+- Mission 9/10: Additional missions we're working on
+
+**Key Point:** We didn't try to do everything - we focused on doing our chosen missions really well!
+
+---
+
+## Mission Strategy Questions
+
+### Q3: Walk me through your robot's run. What happens in each part?
+
+**Sample Answer:**
+
+Here's how our robot run is structured:
+
+**Pre-Run Setup:**
+- We carefully place our robot in the starting position
+- We check all attachments are secure
+- We verify our sensors are calibrated
+- We do a final check of our code
+
+**First Mission Set (Missions 01/02/11):**
+- Silas programmed these missions
+- We start with Surface Brushing - the robot moves to the mission model and activates the brushing mechanism
+- Then Map Reveal - the robot positions itself and reveals the map
+- Finally Angler Artifacts - the robot retrieves the artifacts
+- These missions are designed to flow together efficiently
+
+**Second Mission Set (Missions 5/6/8):**
+- These missions focus on the "Who Lived Here" area
+- The robot moves to the Forge mission
+- Then completes the Silo mission
+- Our attachment is designed to handle multiple interactions in this area
+
+**Mission 9/10:**
+- We're continuing to develop these missions
+- They'll be added to our run as we perfect them
+
+**Between Missions:**
+- Our robot navigates using sensors and precise movements
+- We've programmed efficient paths to minimize travel time
+- We account for field conditions and potential obstacles
+
+**Key Point:** Every movement is planned and tested. We know exactly what should happen at each step!
+
+---
+
+### Q4: How do you handle if something goes wrong during a run?
+
+**Sample Answer:**
+
+We have several strategies for handling problems:
+
+**Prevention:**
+- We test our robot many times before competition
+- We check our attachments before every run
+- We verify our starting position is correct
+- We make sure our code is saved and ready
+
+**During the Run:**
+- If the robot goes off course, we have backup programs
+- We practice manual interventions if needed
+- We stay calm and focused
+- We communicate clearly as a team
+
+**If a Mission Fails:**
+- We don't panic - we move to the next mission
+- We've practiced continuing even if one mission doesn't work
+- We focus on completing the missions we can still do
+- We learn from what went wrong for the next run
+
+**Team Communication:**
+- We have clear signals for different situations
+- Everyone knows their role during a run
+- We support each other if something goes wrong
+- We stay positive and focused
+
+**Key Point:** Things don't always go perfectly, but we're prepared to adapt and still do our best!
+
+---
+
+## Programming Questions
+
+### Q5: How did you program your robot? What programming language did you use?
+
+**Sample Answer:**
+
+We use LEGO SPIKE Prime programming, which is block-based programming. Here's our approach:
+
+**Programming Environment:**
+- We use the LEGO SPIKE Prime app
+- It's visual block programming, which makes it easier to understand and debug
+- We can see our code clearly and make changes easily
+
+**Our Programming Process:**
+- We start by planning what we want the robot to do
+- We break it down into small steps
+- We program each step and test it
+- We combine steps into complete missions
+- We test and refine until it works reliably
+
+**Key Programming Concepts We Use:**
+- **Sensors:** We use color sensors, distance sensors, and gyro sensors for navigation
+- **Loops:** We use loops for repetitive actions
+- **Conditional Statements:** We use "if-then" logic for decision-making
+- **Functions:** We create reusable code blocks for common actions
+
+**Team Approach:**
+- Silas programs Missions 01/02/11
+- Other team members program different missions
+- We all review each other's code
+- We help each other debug problems
+
+**Key Point:** Good programming is about clear thinking, testing, and iteration - just like our innovation project!
+
+---
+
+### Q6: How do you ensure your robot is consistent and reliable?
+
+**Sample Answer:**
+
+Consistency and reliability are crucial in robot competition. Here's how we achieve it:
+
+**Testing:**
+- We test each mission many times - not just once or twice
+- We test under different conditions (lighting, field setup, etc.)
+- We keep track of success rates
+- We only use missions that work at least 90% of the time
+
+**Calibration:**
+- We calibrate our sensors before every run
+- We check our starting position is consistent
+- We verify field conditions match our testing conditions
+- We make small adjustments as needed
+
+**Code Organization:**
+- Our code is well-organized and commented
+- We use consistent programming patterns
+- We test each part separately before combining
+- We have backup programs ready
+
+**Robot Maintenance:**
+- We check our robot before every run
+- We make sure all connections are secure
+- We verify attachments are properly mounted
+- We keep spare parts ready
+
+**Practice:**
+- We practice our runs many times
+- We practice setting up quickly
+- We practice handling problems
+- We practice under competition-like conditions
+
+**Key Point:** Reliability comes from thorough testing, careful preparation, and lots of practice!
+
+---
+
+## Core Values Questions
+
+### Q7: How did your team demonstrate TEAMWORK during robot development?
+
+**Sample Answer:**
+
+Teamwork was essential throughout our robot development:
+
+**Dividing Work:**
+- We divided missions among team members based on strengths
+- Silas took on Missions 01/02/11
+- Others worked on different missions
+- We all contributed to the overall strategy
+
+**Collaboration:**
+- We helped each other when someone got stuck
+- We reviewed each other's code and gave feedback
+- We tested each other's missions and suggested improvements
+- We made decisions together about robot design
+
+**Support:**
+- When someone's mission wasn't working, we all helped debug it
+- We celebrated each other's successes
+- We encouraged each other when things were challenging
+- We shared knowledge and learned from each other
+
+**Practice Together:**
+- We practiced our runs together
+- We timed each other and gave feedback
+- We worked on our presentation together
+- We supported each other during practice matches
+
+**Key Example:** When we went to Lake Country Middle School for practice matches, we worked together as a team, supported each other, and learned from the experience together!
+
+---
+
+### Q8: Give me an example of DISCOVERY in your robot work.
+
+**Sample Answer:**
+
+We discovered so much while working on our robot:
+
+**Discovering Programming:**
+- We learned how to use sensors effectively
+- We discovered how to make precise movements
+- We learned about debugging and problem-solving
+- We discovered that programming is about logic and patience
+
+**Discovering Engineering:**
+- We learned how different attachments work
+- We discovered the importance of balance and stability
+- We learned about gears, motors, and mechanisms
+- We discovered that small changes can make big differences
+
+**Discovering Strategy:**
+- We learned that reliability is more important than complexity
+- We discovered that planning saves time
+- We learned that testing is essential
+- We discovered that sometimes simpler is better
+
+**Discovering Ourselves:**
+- We discovered our strengths (some of us are better at programming, others at building)
+- We learned that we can solve complex problems
+- We discovered that persistence pays off
+- We learned that we work well as a team
+
+**Key Discovery:** We discovered that robotics combines many skills - programming, engineering, strategy, and teamwork - and we can do it!
+
+---
+
+### Q9: How did you show INNOVATION in your robot design?
+
+**Sample Answer:**
+
+We showed innovation in several ways:
+
+**Creative Solutions:**
+- We designed custom attachments for specific missions
+- We found new ways to use sensors for navigation
+- We created efficient mission sequences
+- We solved problems in creative ways
+
+**Original Thinking:**
+- We didn't just copy other teams' designs
+- We thought about what would work best for our missions
+- We experimented with different approaches
+- We combined ideas in new ways
+
+**Problem-Solving:**
+- When something didn't work, we found creative solutions
+- We thought outside the box to solve challenges
+- We adapted and improved our designs
+- We persisted through difficulties
+
+**Example:** Our modular attachment system was our innovation - it allows us to complete multiple missions efficiently by quickly changing tools. This wasn't something we copied - we designed it ourselves!
+
+---
+
+## Teamwork and Collaboration Questions
+
+### Q10: Tell me about your practice matches at Lake Country Middle School.
+
+**Sample Answer:**
+
+Going to Lake Country Middle School was an amazing experience! Here's what happened:
+
+**Practice Matches:**
+- We got to practice our robot runs in the actual competition space
+- This was incredibly valuable because we learned the field setup
+- We practiced against their FLL teams, which gave us real competition experience
+- We learned how to handle pressure and work under time constraints
+
+**Sharing Ideas:**
+- We shared our robot design and strategy with the Lake Country teams
+- They shared their approaches with us
+- We learned different ways to solve the same missions
+- We got ideas for improvements we hadn't thought of
+
+**Learning the Environment:**
+- We learned about the lighting in the competition space
+- We understood the field setup and conditions
+- We practiced our setup and teardown procedures
+- We got comfortable with the competition environment
+
+**Building Relationships:**
+- We made friends with the Lake Country teams
+- We learned that FLL is about collaboration, not just competition
+- We supported each other and shared tips
+- We had fun together!
+
+**Key Benefit:** Practicing in the actual competition space gave us confidence. When we compete there, we'll already know what to expect!
+
+---
+
+### Q11: How did you work together as a team during robot development?
+
+**Sample Answer:**
+
+Teamwork was essential throughout our robot development:
+
+**Clear Roles:**
+- Each team member had specific missions to program
+- We divided building tasks based on strengths
+- We all contributed to strategy decisions
+- Everyone had a role during practice runs
+
+**Communication:**
+- We had regular team meetings to discuss progress
+- We shared what we learned with each other
+- We asked for help when needed
+- We gave feedback constructively
+
+**Collaboration:**
+- We helped each other debug problems
+- We tested each other's missions
+- We reviewed each other's code
+- We made decisions together
+
+**Support:**
+- We encouraged each other when things were challenging
+- We celebrated successes together
+- We learned from failures together
+- We stayed positive and focused
+
+**Key Point:** Our robot is the result of all of us working together. No one person could have done it alone!
+
+---
+
+## Practice and Preparation Questions
+
+### Q12: How much did you practice? What did you practice?
+
+**Sample Answer:**
+
+We practiced a lot! Here's what we did:
+
+**Frequency:**
+- We met regularly as a team to work on our robot
+- We practiced individual missions many times
+- We ran complete practice runs frequently
+- We increased practice as competition got closer
+
+**What We Practiced:**
+- **Individual Missions:** We practiced each mission until it was reliable
+- **Complete Runs:** We practiced full runs to work on timing and flow
+- **Setup:** We practiced setting up quickly and correctly
+- **Problem-Solving:** We practiced handling things when they go wrong
+- **Presentation:** We practiced explaining our robot and strategy
+
+**Practice Conditions:**
+- We practiced in different lighting conditions
+- We practiced with different field setups
+- We practiced under time pressure
+- We practiced at Lake Country Middle School in the actual competition space
+
+**Improvement:**
+- We tracked our success rates and improved them
+- We timed our runs and worked on speed
+- We refined our code based on practice results
+- We improved our teamwork through practice
+
+**Key Point:** Practice doesn't make perfect, but it makes you better. Every practice session taught us something!
+
+---
+
+### Q13: What was your biggest challenge with the robot and how did you overcome it?
+
+**Sample Answer:**
+
+Our biggest challenge was making our robot consistent and reliable. Here's how we overcame it:
+
+**The Challenge:**
+- Sometimes the robot would work perfectly, other times it wouldn't
+- Small variations in starting position or field conditions caused problems
+- We needed consistency to compete effectively
+
+**How We Overcame It:**
+1. **More Testing:** We tested each mission many more times
+2. **Better Calibration:** We improved our sensor calibration process
+3. **Code Refinement:** We made our code more robust and error-resistant
+4. **Documentation:** We documented exactly how to set up and run everything
+5. **Practice:** We practiced until consistency became natural
+
+**Specific Solutions:**
+- We added more sensor checks to ensure accurate positioning
+- We improved our starting position procedure
+- We refined our code to handle small variations
+- We practiced setup until it was second nature
+
+**What We Learned:**
+- Consistency comes from attention to detail
+- Testing is essential - you can't assume something works
+- Small improvements add up to big reliability gains
+- Teamwork helps solve consistency problems
+
+**Key Takeaway:** Overcoming this challenge taught us that reliability is a skill you develop through careful work and lots of practice!
+
+---
+
+## Problem-Solving Questions
+
+### Q14: Describe a time when your robot didn't work as expected. What did you do?
+
+**Sample Answer:**
+
+This happened many times! Here's a specific example:
+
+**The Problem:**
+- One of our missions wasn't working consistently
+- Sometimes it would complete successfully, other times it would fail
+- We couldn't figure out why it was inconsistent
+
+**Our Problem-Solving Process:**
+1. **Observation:** We watched carefully to see what was different between successful and failed attempts
+2. **Hypothesis:** We thought it might be a sensor calibration issue
+3. **Testing:** We tested our hypothesis by trying different calibration methods
+4. **Analysis:** We analyzed the results and found the pattern
+5. **Solution:** We improved our calibration procedure
+
+**What We Did:**
+- We didn't give up - we kept testing and trying
+- We worked together to observe and analyze
+- We tried different solutions systematically
+- We documented what worked and what didn't
+
+**The Solution:**
+- We improved our sensor calibration process
+- We added a check to verify calibration before each run
+- We refined our code to be more tolerant of small variations
+- We practiced the improved procedure until it was reliable
+
+**What We Learned:**
+- Problems are opportunities to learn
+- Systematic problem-solving works better than guessing
+- Teamwork helps you see things you might miss alone
+- Persistence pays off
+
+**Key Point:** Every problem we solved made our robot better. We learned to see problems as challenges to overcome, not reasons to give up!
+
+---
+
+### Q15: How do you handle stress during competition?
+
+**Sample Answer:**
+
+We handle stress through preparation and teamwork:
+
+**Preparation:**
+- We practice so much that we're confident in our robot
+- We know our code and strategy well
+- We've practiced handling problems
+- Preparation reduces stress
+
+**Team Support:**
+- We support each other - if someone is stressed, we help them
+- We stay positive and encouraging
+- We remind each other that we've prepared well
+- We focus on doing our best, not being perfect
+
+**Staying Calm:**
+- We take deep breaths if we feel stressed
+- We focus on one thing at a time
+- We don't panic if something goes wrong
+- We remember that we're here to learn and have fun
+
+**Communication:**
+- We communicate clearly during runs
+- We ask for help if we need it
+- We stay focused on the task
+- We support each other
+
+**Perspective:**
+- We remember that competition is about learning
+- We focus on doing our best, not winning
+- We celebrate our accomplishments
+- We have fun!
+
+**Key Point:** Stress is normal, but preparation and teamwork help us handle it. We're a team, and we support each other!
+
+---
+
+## General Tips for Robot Run Questions
+
+### Be Specific
+- Mention specific missions, attachments, or programming techniques
+- Use concrete examples from your practice and testing
+- Reference specific team members and their contributions
+
+### Show Your Process
+- Explain how you developed your strategy
+- Describe your testing and iteration process
+- Show that you understand why you made certain choices
+
+### Demonstrate Learning
+- Show that you learned from failures
+- Explain how you improved through practice
+- Demonstrate that you understand the engineering and programming concepts
+
+### Connect to Core Values
+- Show teamwork, discovery, innovation, and fun in your answers
+- Demonstrate that you work well together
+- Show that you enjoy what you're doing
+
+### Be Honest
+- It's okay to admit challenges
+- Show how you overcame difficulties
+- Demonstrate that you're still learning
+
+---
+
+*Good luck with your robot runs, Team Excavators! You've prepared well - be confident and have fun!*
