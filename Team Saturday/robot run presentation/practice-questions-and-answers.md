@@ -19,16 +19,18 @@
 ## Robot Design Questions
 
 ### Q1: Tell me about your robot design. Why did you choose this design?
-
+-We changed tire that has good grip 
+-There is two larger morter 
+-White syding
+-It's good for take out attachments and put attachments 
 **Sample Answer:**
-
 Our robot is designed to be reliable, efficient, and able to complete our chosen missions consistently. Here's our design approach:
-
 **Mission-Focused Design:**
+
 - We designed our robot specifically for our chosen missions: M01 (Surface Brushing), M05_06_08 (Silo), and M12 (Salvage Operation)
 - Each part of our robot serves a purpose for these specific missions
 - We prioritized reliability over complexity
-
+- 
 **Stability and Control:**
 - Our base is designed for stability and precise movement
 - We use sensors for accurate navigation and positioning
@@ -36,8 +38,8 @@ Our robot is designed to be reliable, efficient, and able to complete our chosen
 
 **Why This Design:**
 - We tested different designs and found this one works best for our missions
-- It's reliable - it does the same thing every time we run it
-- It's efficient - we can complete our missions quickly
+- It's reliable - it almost does the same thing every time we run it
+- It's efficient - we can complete our missions quickly and accurate
 - It's maintainable - we can fix problems quickly if they arise
 
 **Key Point:** Our design focuses on doing our chosen missions really well, rather than trying to do everything!
@@ -52,7 +54,7 @@ We chose our missions based on strategic thinking and testing:
 
 **Point Value Analysis:**
 - We calculated which missions give us the best points for time invested
-- We balanced high-point missions with reliable, consistent missions
+- We balanced that  missions can get easy point and consistent missions
 - We prioritized missions we could complete consistently
 
 **Reliability Testing:**
@@ -70,7 +72,7 @@ We chose our missions based on strategic thinking and testing:
 - **M05_06_08:** Silo - good points and achievable
 - **M12:** Salvage Operation - challenging but worth the points
 
-**Key Point:** We didn't try to do everything - we focused on doing our chosen missions really well!
+**Key Point:** We didn't try to do everything - we focused on easy missions and fast.
 
 ---
 
@@ -100,11 +102,11 @@ Here's how our robot run is structured:
 - The robot completes the required actions for these missions
 - These missions flow together efficiently
 
-**Mission 12 - Salvage Operation:**
+**Mission 12 - Salvage Operation:**j
 - This is our more challenging mission
 - The robot navigates to the salvage area
 - We use precise positioning and our attachment to complete the mission
-- This mission is worth good points when completed successfully
+- This mission is worthit and not gona do anything when we fail
 
 **Between Missions:**
 - Our robot navigates using sensors and precise programming
@@ -130,10 +132,9 @@ We have strategies for handling problems:
 
 **During the Run:**
 - If the robot goes off course, we stay calm
-- We have backup strategies for common problems
 - We practice manual interventions if needed
 - We communicate clearly as a team
-
+-We cheer as a team
 **If a Mission Fails:**
 - We don't panic - we move to the next mission
 - We've practiced continuing even if one mission doesn't work
@@ -172,7 +173,7 @@ We use LEGO SPIKE Prime block-based programming. Here's our approach:
 
 **Key Programming Concepts:**
 - **Sensors:** We use color sensors, distance sensors, and gyro sensors for navigation
-- **Loops:** We use loops for repetitive actions
+- **Loops:** We use degrees for repetitive actions
 - **Conditional Statements:** We use "if-then" logic for decision-making
 - **Functions:** We create reusable code blocks for common actions
 
@@ -180,7 +181,7 @@ We use LEGO SPIKE Prime block-based programming. Here's our approach:
 - Different team members program different missions
 - We all review each other's code
 - We help each other debug problems
-- We learn from each other's programming techniques
+- We sometime learn from each other's programming techniques
 
 **Key Point:** Good programming is about clear thinking, testing, and iteration!
 
@@ -199,7 +200,6 @@ Consistency and reliability are crucial. Here's how we achieve them:
 - We test until we're confident in reliability
 
 **Calibration:**
-- We calibrate our sensors before every run
 - We check our starting position is consistent
 - We verify field conditions match our testing
 - We make small adjustments as needed
@@ -214,14 +214,14 @@ Consistency and reliability are crucial. Here's how we achieve them:
 - We check our robot before every run
 - We make sure all connections are secure
 - We verify attachments are properly mounted
-- We keep spare parts ready
+
 
 **Practice:**
 - We practice our runs many times
 - We practice setting up quickly
 - We practice handling problems
 - We practice under competition-like conditions
-
+- Ww practice are teamwork
 **Key Point:** Reliability comes from thorough testing, careful preparation, and lots of practice!
 
 ---
@@ -241,7 +241,6 @@ Teamwork was essential throughout our robot development:
 
 **Collaboration:**
 - We helped each other when someone got stuck
-- We reviewed each other's code and gave feedback
 - We tested each other's missions and suggested improvements
 - We made decisions together about robot design
 
@@ -253,11 +252,11 @@ Teamwork was essential throughout our robot development:
 
 **Practice Together:**
 - We practiced our runs together
-- We timed each other and gave feedback
+- Sometime each other and gave feedback
 - We worked on our presentation together
 - We supported each other during practice matches at Lake Country Middle School
 
-**Key Example:** When we went to Lake Country Middle School, we worked together as a team, supported each other, and learned from the experience together!
+**Key Example:** When we went to Lake Country Middle School, we worked together as a team, supported each other,  learned from the experience together and cheer each others together!
 
 ---
 
@@ -268,10 +267,10 @@ Teamwork was essential throughout our robot development:
 We discovered so much while working on our robot:
 
 **Discovering Programming:**
-- We learned how to use sensors effectively for navigation
+- We learned how to use robot that need code 
 - We discovered how to make precise movements
 - We learned about debugging and problem-solving
-- We discovered that programming is about logic and patience
+- We discovered that programming is about logic and pation
 
 **Discovering Engineering:**
 - We learned how different attachments work
@@ -308,7 +307,7 @@ We showed innovation in several ways:
 - We solved problems in creative ways
 
 **Original Thinking:**
-- We didn't just copy other teams' designs
+- We didn't copy other teams' designs
 - We thought about what would work best for our missions
 - We experimented with different approaches
 - We combined ideas in new ways
@@ -338,11 +337,7 @@ Going to Lake Country Middle School was an amazing experience! Here's what happe
 - We learned how to handle pressure and work under time constraints
 
 **Sharing Ideas:**
-- We shared our robot design and strategy with the Lake Country teams
-- They shared their approaches with us
 - We learned different ways to solve the same missions
-- We got ideas for improvements we hadn't thought of
-
 **Learning the Environment:**
 - We learned about the lighting in the competition space
 - We understood the field setup and conditions
@@ -350,9 +345,7 @@ Going to Lake Country Middle School was an amazing experience! Here's what happe
 - We got comfortable with the competition environment
 
 **Building Relationships:**
-- We made friends with the Lake Country teams
 - We learned that FLL is about collaboration, not just competition
-- We supported each other and shared tips
 - We had fun together!
 
 **Key Benefit:** Practicing in the actual competition space gave us confidence. When we compete there, we'll already know what to expect!
@@ -375,13 +368,11 @@ Teamwork was essential throughout our robot development:
 - We had regular team meetings to discuss progress
 - We shared what we learned with each other
 - We asked for help when needed
-- We gave feedback constructively
 
 **Collaboration:**
 - We helped each other debug problems
 - We tested each other's missions
 - We reviewed each other's code
-- We made decisions together
 
 **Support:**
 - We encouraged each other when things were challenging
@@ -405,8 +396,8 @@ We practiced a lot! Here's what we did:
 - We met regularly as a team to work on our robot
 - We practiced individual missions many times
 - We ran complete practice runs frequently
-- We increased practice as competition got closer
-
+- We always practice, it dosen't matter if the compation get close
+  
 **What We Practiced:**
 - **Individual Missions:** We practiced each mission until it was reliable
 - **Complete Runs:** We practiced full runs to work on timing and flow
@@ -426,8 +417,7 @@ We practiced a lot! Here's what we did:
 - We refined our code based on practice results
 - We improved our teamwork through practice
 
-**Key Point:** Practice doesn't make perfect, but it makes you better. Every practice session taught us something!
-
+**Key Point:** Practice doesn't make perfect, but it makes you better. Every practice you know what is wrong!
 ---
 
 ### Q13: What was your biggest challenge with the robot and how did you overcome it?
