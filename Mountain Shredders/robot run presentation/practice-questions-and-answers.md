@@ -20,33 +20,7 @@
 
 ### Q1: Tell me about your robot design. Why did you choose this design?
 
-**Sample Answer:**
-
-Our robot is designed to be reliable, precise, and able to complete our chosen missions efficiently. Here's our design philosophy:
-
-**Mission-Focused Design:**
-- We designed our robot specifically for our chosen missions
-- Each part of our robot serves a purpose for these specific missions
-- We prioritized reliability over complexity
-
-**Stability and Precision:**
-- Our base is designed for stability and precise movement
-- We use sensors for accurate navigation and positioning
-- Our wheels and motors are chosen for the right balance of speed and control
-
-**Why This Design:**
-- We tested different designs and found this one works best for our missions
-- It's reliable - it does the same thing every time we run it
-- It's efficient - we can complete our missions quickly
-- It's maintainable - we can fix problems quickly if they arise
-
-**Key Point:** Our design focuses on doing our chosen missions really well, rather than trying to do everything!
-
----
-
-## Mission Strategy Questions
-
-### Q2: How did you decide which missions to attempt?
+Its a box that has 2 big motors and 2 small motors for attachments. We chose this robot because we used it last 
 
 **Sample Answer:**
 
