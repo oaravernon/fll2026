@@ -10,3 +10,6 @@ Excavators/innovation project/Excavators Flexi Digger Innovation Project.pdf
 
 # Actually, let's be more specific - ignore only the huge PDF
 Excavators/innovation project/Excavators Flexi Digger Innovation Project.pdf
+
+# PDF conversion venv (large binaries, do not commit)
+.venv-pdf/
